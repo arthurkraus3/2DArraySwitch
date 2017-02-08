@@ -1,35 +1,18 @@
 ## 2D Array Row/Col Switch
+DO NOT COPY/PASTE/RUN.. If you need to steal code off the internet for this kind of program, you should actually take the time and learn how it all works. I recommend taking the ConvertArrayNotes and the ConvertArrayMain FIRST, then if you ABSOLUTELY NEED something to reference, then look at ConvertArray.java and use it to learn off of what you do wrong. Hopefully, you wont need it and I have provided enough on ConvertArrayNotes. 
 
-
-
+All credit for the synthesis of this problem goes to Mr. Devine at provi. Youre the bomb man!
 ### Goal
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Take an integers such as: 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/r0oki3/2DArraySwitch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+11, 22, 33
+44, 55, 66
+```
+Transformed into: 
+```
+11, 44
+22, 55
+33, 66
+```
+I made notes for those who would like to understand more about how to do this easily.
+NO CODE STEALING PLEASE.
